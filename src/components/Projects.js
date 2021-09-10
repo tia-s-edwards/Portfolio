@@ -12,10 +12,11 @@ export default function Projects () {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+            Coming soon...
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
-          {projects.map((project) => (
+          {/* {projects.map((project) => (
             <a
               href={project.link}
               key={project.image}
@@ -37,7 +38,7 @@ export default function Projects () {
                 </div>
               </div>
             </a>
-          ))}
+          ))} */}
         </div>
       </div>
     </section>

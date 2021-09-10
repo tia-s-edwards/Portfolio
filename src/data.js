@@ -4,8 +4,8 @@ export const projects = [
     subtitle: "React & Bootstrap",
     description:
       "Simple react CRUD (Create, Read, Update, Delete) application ",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    image: "",
+    link: ""
   },
 ];
 
