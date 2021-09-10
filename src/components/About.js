@@ -7,12 +7,10 @@ export default function About () {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Tia.
-            <br className="hidden lg:inline-block" /> love to build amazing
-            apps.
           </h1>
           <p className="mb-8 leading-relaxed">
             I'm a front-end developer that uses JavaScript, HTML, and CSS to create responsive web applications that provides the best exerience for the user in their browser or their mobile device. I specialize in React and AngularJS frameworks.
-            I'm An excellent team player with a positive attitude. Currently seeking a role to build and enhance web and mobile applications for a well-established and innovative technology company.
+            I'm an excellent team player with a positive attitude. Currently seeking a role to build and enhance web and mobile applications for a well-established and innovative technology company.
           </p>
           <div className="flex justify-center">
             <a
